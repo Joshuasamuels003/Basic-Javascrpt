@@ -12,7 +12,7 @@ var counter = (function() {
   let count = 3;
 
   function print(message) {
-    console.log(message + '-----' + count);
+    console.log(message + '-----' + count);git 
   }
 
     function getcount(){
